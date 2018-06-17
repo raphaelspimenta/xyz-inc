@@ -5,4 +5,4 @@ Projeto Web XYZ-Inc
 
 O projeto foi criado utilizando o [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Veja a aplicação em produção em [Heroku](https://raphael-xyz-inc.herokuapp.com/)
+Veja a aplicação em produção em [Heroku](https://xyz-inc.herokuapp.com/)
